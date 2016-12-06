@@ -1,0 +1,6 @@
+﻿{
+    "UncategorizedServerGroup": "Uncategorized",
+    "InventoryFilePath":  "..\\DataStore",
+    "ErrorLogPath": "error.log",
+    "CMS": "."
+}
